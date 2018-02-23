@@ -2,7 +2,7 @@
 
 A [Scrapy](https://scrapy.org/) crawler to help check for broken links on [mygov.scot](https://www.mygov.scot/).
 
-* Run Screaming Frog with a "search" for "la-link"
+* Run Screaming Frog with a "search" for "link-la"
 * Export these URLs to "urls.txt"
 * Download scrapy_crawl.py to the same folder as "urls.txt"
 * Run using the following command:
